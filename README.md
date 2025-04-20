@@ -232,3 +232,10 @@
 
 <h2>আপনার মন্তব্য লিখুন</h2>
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1LvmglFTeoyvUqR-BUmp9oyk9RWmWB22AcOISoK2d6DqRZg/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
+<header>
+    <img src="https://i.postimg.cc/NK8rNZWY/IMG-20250331-120204.jpg" alt="KOBI MD SHAJAHAN" style="width:100%; border-radius: 12px; margin-bottom: 15px;">
+    <h1>KOBI MOHAMMAD SHAJAHAN adda gor</h1>
+    <p>ছন্দ দিয়ে শুভেচ্ছা: কবিতা ভালোবাসার ঠিকানা</p>
+</header>
