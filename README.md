@@ -85,23 +85,7 @@
     <button>কমেন্ট করুন</button>
   </div>
 
-  <div class="contact">
-    <h3>যোগাযোগ:</h3>
-    <p>MOHAMMAD SHAJAHAN</p>
-    <p>Call: 01818244919</p>
-    <p>
-      Facebook: <a href="https://www.facebook.com/share/18dwrd5EL3/" target="_blank">
-      Facebook Link</a>
-    </p>
-    <p>Address: CHADDUGRAM, COMILLA, BANGLADESH</p>
-  </div>
-
-  <div class="footer">
-    <p>Dedicated to: Belonging FATHER & MOTHER</p>
-    <p>Created by: SHIHAB programming world.llc</p>
-  </div>
-
-</body>
+   <body>
 </html>
 
 
