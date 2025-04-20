@@ -229,3 +229,6 @@
 
 </body>
 </html>
+
+<h2>আপনার মন্তব্য লিখুন</h2>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd1LvmglFTeoyvUqR-BUmp9oyk9RWmWB22AcOISoK2d6DqRZg/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
