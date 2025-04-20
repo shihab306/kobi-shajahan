@@ -45,8 +45,7 @@
 <body>
 
   <h1>KOBI MOHAMMAD SHAJAHAN adda gor</h1>
-  <p style="text-align: center; font-weight: bold;">"ছন্দের ভেতর স্বপ্ন জাগে,  
-  কাব্যের মাঝে মন ভাসে।"</p>
+  <p style="text-align: center; font-weight: bold;">"WELCOME TO ADDA-GOR"</p>
 
   <div class="poem">
     <h2>আজকের কবিতা</h2>
